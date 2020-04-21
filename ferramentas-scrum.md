@@ -13,7 +13,9 @@ Pivotal Tracker
 ## Planning
 
 [Your Track - Jetbrains](https://www.jetbrains.com/youtrack/download/get_youtrack.html#section=incloud)
+
 Google Docs
+
 Google Drive
 
 ## Review
