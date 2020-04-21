@@ -22,7 +22,7 @@ Mural
 
 ## Facilitação remota
 
-Lista compartilhda por Fernandes Lima no grupo de Agilidade (https://t.me/c/1322433528/10520)
+[Lista compartilhda por Fernandes Lima no grupo de Agilidade](https://t.me/c/1322433528/10520)
 
 
 ## Brasileiras
