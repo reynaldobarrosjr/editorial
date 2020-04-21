@@ -16,6 +16,6 @@ Artigos e conteúdos sobre Agilidade
 
 | Título  | termo buscado  |   |   |   |
 |---|---|---|---|---|
-| Ferramentas para o scrum  | [ferramentas para gestão scrum online]("https://www.google.com/search?q=ferramentas+para+gest%C3%A3o+scrum+online")  |   |   |   |
+| Ferramentas para o scrum  | [ferramentas para gestão scrum online](https://www.google.com/search?q=ferramentas+para+gest%C3%A3o+scrum+online)  |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
