@@ -1,4 +1,8 @@
-# O que é este projeto
+# O que é este projeto?
+
+Uma iniciativa para reunir agilistas que curtem a utilização da ferramenta GIT. 
+
+# Uma breve história de usuário do GIT :P
 
 A geração de conteúdo público para todos os interessados nos temas que tocam na AGILIDADE, me levou a criar esse repositório. Nele, pretendo extrapolar tudo que diz respeito a material gerado pela comunidade ÁGIL ao redor do mundo. 
 
