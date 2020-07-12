@@ -18,8 +18,8 @@ Minhas redes sociais:
 # Editorial
 Artigos e conteúdos sobre Agilidade
 
-| Título  | termo buscado  |   |   |   |
+| Título  | termo buscado  | referência  |   |   |
 |---|---|---|---|---|
 | Ferramentas para o scrum  | [ferramentas para gestão scrum online](https://www.google.com/search?q=ferramentas+para+gest%C3%A3o+scrum+online)  |   |   |   |
-|   |   |   |   |   |
+| Topologia de times  |   |   |   |   |
 |   |   |   |   |   |
