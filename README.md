@@ -21,5 +21,5 @@ Artigos e conteúdos sobre Agilidade
 | Título  | termo buscado  | referência  |   |   |
 |---|---|---|---|---|
 | Ferramentas para o scrum  | [ferramentas para gestão scrum online](https://www.google.com/search?q=ferramentas+para+gest%C3%A3o+scrum+online)  |   |   |   |
-| Topologia de times  |   |   |   |   |
+| Topologia de times  |   |  [topologia de times](https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d) |   |   |
 |   |   |   |   |   |
